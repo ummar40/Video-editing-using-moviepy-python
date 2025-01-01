@@ -25,6 +25,8 @@ How to Use
 Clone this repository:
 
                                  git clone https://github.com/ummar40/Video-editing-using-moviepy-python.git
+And then hit	
+
                                  cd Video-editing-using-moviepy-python
 
 Prepare the input video file and place it in the project directory. VideoIN.mov
